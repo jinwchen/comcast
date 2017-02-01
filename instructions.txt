@@ -1,0 +1,14 @@
+How to run the ad campaign web application:
+
+1.) download the WAR (cimadcampaign-1.0.war) file.
+2.) In dos prompt, type "java -jar cimadcampaign-1.0.war"
+3.) open browser with URL=http://localhost:8080 and it will bring up the welcome page.
+
+=================================================
+There are four sections on welcome page:
+1.) Create Ad Campaign - for adding new ad campaign.
+2.) Search Active Ad Campaign - enter partner id to search the active ad campaign.
+3.) Retrieve partner_id=testid - click the link to retrieve the pre-entered ad campaign.
+4.) Retrieve All Ad Campaigns - Click the link to retrieve all ad campaigns.
+
+=================================================
