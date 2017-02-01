@@ -1,3 +1,5 @@
+This web application utilizes Java Spring Boot framework.
+
 How to run the ad campaign web application:
 
 1.) download the WAR (cimadcampaign-1.0.war) file.
