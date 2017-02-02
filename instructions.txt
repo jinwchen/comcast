@@ -1,4 +1,5 @@
 This web application utilizes Java Spring Boot framework.
+The file "cimad.zip" is the eclipse project archive file which includes all of source code.
 
 How to run the ad campaign web application:
 
